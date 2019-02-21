@@ -1,0 +1,8 @@
+.navbar {
+    font-size: 35px;
+    background-color: red !important;
+}
+
+.navbar a {
+    font-size: 60px;
+}

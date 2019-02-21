@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/babydon.jpg",
+        "trump": "The good Trump"
+    },
+    {
+        "id": 2,
+        "image": "./assets/trump1.png",
+        "trump": "Bashful Trump"
+    },
+    {
+        "id": 3,
+        "image": "./assets/trump2.jpg",
+        "trump": "Pretty Trump"
+    },
+    {
+        "id": 4,
+        "image": "./assets/trump3.jpg",
+        "trump": "Lover Trump"
+    },
+    {
+        "id": 5,
+        "image": "./assets/trump4.jpg",
+        "trump": "Trump Winning"
+    },
+    {
+        "id": 6,
+        "image": "./assets/trump5.jpg",
+        "trump": "MAGA"
+    },
+    {
+        "id": 7,
+        "image": "./assets/trump6.jpg",
+        "trump": "Walls for Trump"
+    },
+    {
+        "id": 8,
+        "image": "./assets/trump7.jpg",
+        "trump": "Putin's Love"
+    },
+    {
+        "id": 9,
+        "image": "./assets/trump8.jpg",
+        "trump": "Tarrif Trump"
+    },
+    {
+        "id": 10,
+        "image": "./assets/trump9.jpg",
+        "trump": "Mueller's Buddy"
+    },
+    {
+        "id": 11,
+        "image": "./assets/trump10.jpg",
+        "trump": "Trump Love"
+    },
+    {
+        "id": 12,
+        "image": "./assets/trump11.jpg",
+        "trump": "Best Trump"
+    }
+        
+    
+]
